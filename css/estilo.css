@@ -7,6 +7,7 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: rgba(34, 32, 31, 0.911);
 }
 
 #cabecera
@@ -33,6 +34,7 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: whitesmoke;
 }
 
 #container h1
@@ -42,4 +44,10 @@ body
 #post
 {
     padding: 1em;
+}
+#footer 
+{
+    text-align: center;
+    color: white;
+    background-color: gray;
 }
