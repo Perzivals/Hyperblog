@@ -49,5 +49,6 @@ body
 {
     text-align: center;
     color: white;
-    background-color: gray;
+    background-color: rgb(28, 27, 27);
+    padding: 15px;
 }
