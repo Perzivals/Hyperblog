@@ -6,6 +6,8 @@ Nació en Bogotá vive en Colombia tiene 16 años y mide 1.67m
 fin.
 experimento 1
 
+experimento 2
+
 Master 1
 
 master 2
