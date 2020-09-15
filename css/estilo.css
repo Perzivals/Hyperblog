@@ -35,6 +35,7 @@ body
     text-align: left;
     border: 1px solid rgb(51, 51, 51);
     margin: 0 auto;
+    margin-top: 5px;
     background-color: whitesmoke;
 
 }
@@ -51,6 +52,6 @@ body
 {
     text-align: center;
     color: white;
-    background-color: rgb(28, 27, 27);
+    background: #33A;
     padding: 15px;
 }
