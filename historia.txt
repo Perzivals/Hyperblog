@@ -14,3 +14,5 @@ master 2
 voy a hacer una locura
 
 Este es un cambio para practicar la leccion d la clase
+
+creo una nueva rama desde aqui para ver como lo ve mi repositorio local.
